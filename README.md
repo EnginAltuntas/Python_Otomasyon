@@ -1,4 +1,4 @@
-# Python_staj2
+# Python Kütüphane Otomasyonu
 
 Bu projede Python,PyQt5 kullanılarak kütüphane otomasyonu kodlanmıştır.
 
